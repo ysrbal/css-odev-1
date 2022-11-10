@@ -1,0 +1,34 @@
+.h1{
+    color: darkorange;
+    font-size: 50px;
+    text-align: center;
+}
+
+.h2{
+    color: darkslateblue;
+    font-size: 35px;
+    text-align: center;
+}
+
+.nav{
+    background-color:blue;
+    text-align: center;
+    border: 7cm;
+    
+}
+
+.p{
+    font-size: 16px;
+    color: black;
+}
+
+.a{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.address{
+    color: darkblue;
+    text-align: center;
+}
